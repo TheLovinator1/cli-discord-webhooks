@@ -3,7 +3,7 @@ async-timeout==3.0.1
 attrs==20.3.0
 certifi==2020.12.5
 chardet==3.0.4
-dhooks==1.1.4
+git+git://github.com/kyb3r/dhooks.git#egg=dhooks
 idna==2.10
 multidict==5.1.0
 requests==2.25.1
