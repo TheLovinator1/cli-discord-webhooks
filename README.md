@@ -5,7 +5,7 @@ This program sends messages to [Discord](https://discord.com/) via [webhooks](ht
 
 ## Installation
 
-* Install latest version of Python 3.
+* Install latest version of [git](https://git-scm.com/) and [Python](https://www.python.org/)
 * (Optional) Create a virtual environment:
     * `python -m venv .venv`
 * (Optional) Activate virtual enviroment:
@@ -16,15 +16,11 @@ This program sends messages to [Discord](https://discord.com/) via [webhooks](ht
 * Send a message:
     * `python discord-webhook.py URL MESSAGE`
     * Example `python discord-webhook.py https://discord.com/api/webhooks/189491209419804980/FKopa202kf9oapoAKOPFapofPKOFKOPapokfaOPKF_KF-289KJASKOoskfoAKOFS02Ka "Hello"`
-* Be happy
-
-Note: The webook url needs to be https://discord.com/ and not https://discordapp.com/
-
 
 ## Help
-* Email: tlovinator@gmail.com
+* Email: [tlovinator@gmail.com](mailto:tlovinator@gmail.com)
 * Discord: TheLovinator#9276
-* Steam: https://steamcommunity.com/id/TheLovinator/
+* Steam: [TheLovinator](https://steamcommunity.com/id/TheLovinator/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
